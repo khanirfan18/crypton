@@ -2,6 +2,8 @@
 
 [Live Demo](https://crypton-wheat.vercel.app) • Web3 Crypto Tracker App
 
+<img width="1857" height="1011" alt="Screenshot from 2026-05-21 12-49-52" src="https://github.com/user-attachments/assets/c6c6225d-d619-4d09-905a-3f6db19332b2" />
+
 ---
 
 ## 🔍 Project Overview
